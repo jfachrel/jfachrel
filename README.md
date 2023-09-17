@@ -1,4 +1,4 @@
-### Hey.. 👋 I'm Julio.
+### Hey... 👋 I'm Julio.
 
 <p align="center">
   <img width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZrOHIzZjd2bGVuNGpwMXhuYXF3aW0wNDRoNmRlZWMybGk1d2U5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lWtoCrjLeqSUyUzPJ/giphy.gif">
