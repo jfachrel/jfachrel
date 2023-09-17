@@ -9,6 +9,13 @@
 <a href="https://www.linkedin.com/in/julio-fachrel/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic&logoWidth=30">
 </a>
+<a href="juliofachrel@gmail.com">
+<img src="https://img.shields.io/badge/-Mail-red?logo=google&logoColor=white&style=plastic&logoWidth=30">
+</a>
+<a href="https://www.linkedin.com/in/julio-fachrel">
+<img src="https://img.shields.io/badge/-RPubs-blue?logo=r&logoColor=white&style=plastic&logoWidth=30">
+</a>
+
 
 </p>
 
