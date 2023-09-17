@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Seeking challenging roles in the field of AI and machine learning. I love to explore new technologies and leverage them to solve real-life problems ✨. Certified TensorFlow Developer and Huawei Certified ICT Associate – Artificial Intelligence👨🏻‍💻.
+  Seeking challenging roles in the field of artificial intelligence and machine learning. I love to explore new technologies and leverage them to solve real-life problems ✨. Certified TensorFlow Developer and Huawei Certified ICT Associate – Artificial Intelligence👨🏻‍💻.
 </p>
 
 <p align="center">
@@ -30,4 +30,31 @@
 
 </p>
 
+<h2 align="center">Technology Stack ⚙️</h2>
+
+<p align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,tensorflow,flask,grafana,heroku,linux,postman,pytorch,r,sqlite,stackoverflow,tensorflow" />
+  </a>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+
+</p>
+
+<h2 align="center">
+  My Github Stats 📈
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=jfachrel&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jfachrel&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jfachrel&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
